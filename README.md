@@ -1,4 +1,5 @@
 # Honey Tracker API
+![travis_status](https://travis-ci.org/podoglyph/honey-tracker-api.svg?branch=master)
 
 The Honey Tracker is an app that helps commercial beekeepers track their assets across multiple locations. A commercial operation may have thousands of hives spread out over hundreds of locations. During the season beekeepers perform several jobs on each hive, including health checkups, addition of supers, harvesting, and mite treatments. With thousands of hives tracking the work over the course of several months can be cumbersome and tedious. The Honey Tracker aims to streamline the process making it easier for beekeepers to focus on running their businesses with readily available, queryable data on their assets.
 
